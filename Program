@@ -15,3 +15,6 @@ Next
 'Display the Fibonacci serin
 
 MsgBox fiberels
+Else
+
+MsgBox "Please enter a valid postitus number.", WbExclamation, "Invalid Input" End If
