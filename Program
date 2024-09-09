@@ -1,0 +1,17 @@
+Dim n, first, second, nextNum. I Dim fibiSeries
+
+prompt user to enter the number of terms n= InputBox ("Erder the number of terms for the Fibernance series:", "Fibonaca sextes") Initialize the first two numbers of the fibona Series
+
+First- 0
+
+Second = 1 Sibseries, "Fibonacci Sortes: "& vbCrLf & four L
+
+Vocris & second & VECTIS
+
+"Check if input & valid If IsNumeric (n) And nxo Then "Grenerade the Fibonacul series For is Ton next Num först + second Sib Series Spaseries & nextNum & volOLS Surist = second second nextNum
+
+Next
+
+'Display the Fibonacci serin
+
+MsgBox fiberels
